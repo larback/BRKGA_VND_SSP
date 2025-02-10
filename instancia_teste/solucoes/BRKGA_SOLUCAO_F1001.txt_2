@@ -1,1 +1,46 @@
-290 280 3601.82 40
+290 280 1349.91 155 99 0.0409813 1 0.0016273 2 0.0715515 3 0.0731379 
+Parametros do Algoritmo
+Tamanho da população: 50
+Fração da população para elite: 0.3
+Fração da população trocada por mutantes: 0.25
+Probabilidade de se herdar um alelo da elite: 0.85
+Populações independentes: 1
+Threads para decodificacao paralela: 4
+Quantidade máxima de gerações: 200
+
+
+Parâmetros da instância
+Tarefas: 50
+Ferramentas: 75
+Capacidade Magazine: 25
+
+
+Makespan: 280
+
+Tempo de execução: 1349.91 segundos 
+
+
+Melhor geração: 155
+
+Makespan ao final da 1ª geração: 290
+
+
+Buscas Locais
+VND
+Tempo médio: 0.0409813
+Melhora média: 99
+Execuções: 687
+Switch_pair
+Tempo médio: 0.0016273
+Melhora média: 1
+Execuções: 23926
+US
+Tempo médio: 0.0715515
+Melhora média: 2
+Execuções: 17026
+2OPT
+Tempo médio: 0.0731379
+Melhora média: 3
+Execuções: 1396
+Solução:
+19 29 8 15 33 47 17 37 41 42 26 20 35 30 34 10 39 12 46 38 49 22 4 23 3 43 21 44 31 28 18 7 0 48 36 27 25 32 2 16 45 40 24 9 6 11 14 5 13 1 Total de gerações: 200
